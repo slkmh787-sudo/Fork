@@ -1,0 +1,9 @@
+{
+  "name": "savvy-flow",
+  "version": "0.1.0",
+  "description": "A disciplined understand → plan → build → verify → report workflow for any coding task.",
+  "author": {
+    "name": "slkmh787-sudo"
+  },
+  "keywords": ["workflow", "planning", "verification"]
+}
